@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @7474N0U
-- 👀 I’m interested in informatics and I'm looking for beginner coders to help me with my project named Ashedem.
-- 💞️ I’m looking to collaborate on Ashedem
 - ⚡ Fun fact: I'm funny and chill
 
 <!---
